@@ -168,6 +168,3 @@ Weights are randomly initialized between -1 and 1 using `Math.random() * 2 - 1`.
 
 This implementation uses ES6 classes and should work in modern browsers. For older browser support, transpilation with Babel may be required.
 
-## License
-
-This code appears to be a educational/demonstration implementation. Please verify licensing terms before using in production applications.
